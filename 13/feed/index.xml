@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentaris a: 13	</title>
-	<atom:link href="/13/feed/" rel="self" type="application/rss+xml" />
-	<link>/13/</link>
+	<atom:link href="https://tornako.github.io/restaurant/13/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tornako.github.io/restaurant/13/</link>
 	<description>Cuina mediterrània</description>
 	<lastBuildDate>Tue, 03 May 2022 21:52:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
