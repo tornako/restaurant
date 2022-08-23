@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Restaurant</title>
-	<atom:link href="/es/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://tornako.github.io/restaurant/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tornako.github.io/restaurant/</link>
 	<description>Cocina mediterránea</description>
 	<lastBuildDate>Fri, 19 Aug 2022 16:56:26 +0000</lastBuildDate>
 	<language>es</language>
