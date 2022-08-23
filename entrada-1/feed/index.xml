@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentaris a: Entrada 1	</title>
-	<atom:link href="/entrada-1/feed/" rel="self" type="application/rss+xml" />
-	<link>/entrada-1/</link>
+	<atom:link href="https://tornako.github.io/restaurant/entrada-1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tornako.github.io/restaurant/entrada-1/</link>
 	<description>Cuina mediterrània</description>
 	<lastBuildDate>Mon, 02 May 2022 08:50:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
